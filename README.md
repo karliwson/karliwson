@@ -1,1 +1,10 @@
-.
+<img
+  align="center"
+  height="165"
+  src="https://github-readme-stats.vercel.app/api?username=karliwson&show_private=true&count_private=true&show_icons=true&custom_title=Status%20GitHub&theme=radical"
+/>
+<img
+  align="center"
+  height="165"
+  src="https://github-readme-stats.vercel.app/api/wakatime?username=karliwson&theme=radical&layout=compact"
+/>
