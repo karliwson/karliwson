@@ -6,5 +6,5 @@
 <img
   align="center"
   height="165"
-  src="https://github-readme-stats.vercel.app/api/wakatime?username=karliwson&theme=radical&layout=compact"
+  src="https://github-readme-stats.vercel.app/api/wakatime?username=karliwson&theme=radical"
 />
