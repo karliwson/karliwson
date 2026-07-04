@@ -8,7 +8,7 @@ With over 21 years of engineering experience, I approach DevSecOps from a langua
 ### Core Engineering Focus
 * **Multi-Cloud Infrastructure:** AWS, GCP, Azure
 * **Infrastructure as Code (IaC):** Terraform, Pulumi
-* **Architecture:** High-Availability, Microservices, Data Lakes
+* **Architecture:** Building highly available platforms that scale reliably and stay online
 * **DevSecOps:** Hardened delivery pipelines, zero-trust infrastructure
 
 ---
